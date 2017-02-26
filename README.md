@@ -7,7 +7,7 @@ A gsl c program to solve linear equations,which could replace the Routh table.
 
 ##2orderSys folder
 Block_diagram.m:solve BD in matlab  
-SrdO.py:Script for 2ed order system  
+SrdO.py:Script for 2nd order system  
 routhT.hs:Routh table  
 
 ##rootlocus folder
